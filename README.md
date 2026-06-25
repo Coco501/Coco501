@@ -1,4 +1,4 @@
-## Hire me please 🙏
+## Looking for work 👷
 
 I enjoy low-level development, CLI tools, and game dev. Everything really, I just love making things work and look/feel nice.
 
